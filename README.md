@@ -38,7 +38,7 @@ This project involves analyzing data related to medical products, including thei
 
 # Dashboards
 
-<img width="960" alt="image" src="https://github.com/AmitKotnala/Tata-1Mg-Homeopathic-medicine-Analysis/assets/118646525/13ed48bb-1335-420b-84dc-c8eefa612832">
+<img width="960" alt="image" src="https://github.com/AmitKotnala/Tata-1Mg-Homeopathic-medicine-Analysis/assets/118646525/39eb5d75-5bf2-4008-8815-f21879b7c4c9">
 
 # Insights
 
